@@ -1,4 +1,5 @@
 ﻿// Tuples
+var seasons = new Tuple<Season, Season, Season, Season>(Season.Spring, Season.Summer, Season.Autumn, Season.Winter);
 
 enum Color
 {
